@@ -4,10 +4,10 @@
   "description": "testing publish with verdaccio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aws-amplify/amplify-category-api.git",
-    "directory": "packages/amplify-graphql-default-value-transformer"
+    "url": "https://github.com/phani-srikar/test-verdaccio",
+    "directory": "packages/verdaccio-test-client-package"
   },
-  "author": "Amazon Web Services",
+  "author": "phani-srikar",
   "license": "Apache-2.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
