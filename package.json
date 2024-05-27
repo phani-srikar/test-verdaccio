@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "",
   "scripts": {
-    "publish:release": "lerna publish --conventional-commits --conventional-graduate --exact --yes --message 'chore(release): Publish [ci skip]' --no-verify-access",
+    "publish:release": "lerna publish --conventional-commits --exact --yes --message 'chore(release): Publish [ci skip]' --no-verify-access",
     "publish-to-verdaccio": "lerna publish --yes --no-commit-hooks --no-push --exact --dist-tag=latest --conventional-commits --no-git-tag-version --no-verify-access"
   },
   "bugs": {
