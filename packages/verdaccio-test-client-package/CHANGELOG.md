@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.2](https://github.com/phani-srikar/test-verdaccio/compare/verdaccio-test-client-package@1.1.1...verdaccio-test-client-package@1.1.2) (2024-05-27)
+
+
+### Bug Fixes
+
+* update package info ([df3be14](https://github.com/phani-srikar/test-verdaccio/commit/df3be144569a0080ee38d38e370d53e195146c18))
+
+
+
+
+
 ## [1.1.1](https://github.com/aws-amplify/amplify-category-api/compare/verdaccio-test-client-package@1.1.0...verdaccio-test-client-package@1.1.1) (2024-05-27)
 
 
