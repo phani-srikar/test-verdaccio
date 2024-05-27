@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.1](https://github.com/phani-srikar/test-verdaccio/compare/verdaccio-test-client-package@2.1.0...verdaccio-test-client-package@2.1.1) (2024-05-27)
+
+
+### Bug Fixes
+
+* use dist-tag for publishing lts versions ([7ee2d3b](https://github.com/phani-srikar/test-verdaccio/commit/7ee2d3b5ccea2a6fd39d0196e4b7316e39caf9eb))
+
+
+
+
+
 # [2.1.0](https://github.com/phani-srikar/test-verdaccio/compare/verdaccio-test-client-package@1.1.1...verdaccio-test-client-package@2.1.0) (2024-05-27)
 
 
