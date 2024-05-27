@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/aws-amplify/amplify-category-api/compare/verdaccio-test-client-package@1.1.0...verdaccio-test-client-package@1.1.1) (2024-05-27)
+
+
+### Bug Fixes
+
+* update package description ([0f9f100](https://github.com/aws-amplify/amplify-category-api/commit/0f9f100e74caa820f10a92aa7238bad04e6aee6c))
+
+
+
+
+
 # 1.1.0 (2024-05-27)
 
 
