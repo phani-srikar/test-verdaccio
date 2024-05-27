@@ -1,7 +1,7 @@
 {
   "name": "verdaccio-test-client-package",
   "version": "2.1.0",
-  "description": "testing publish with verdaccio",
+  "description": "testing publish with verdaccio V2",
   "repository": {
     "type": "git",
     "url": "https://github.com/phani-srikar/test-verdaccio",
