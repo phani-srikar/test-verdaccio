@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.1.0 (2024-05-27)
+
+
+### Features
+
+* initial commit to setup workspace ([c3eb0ef](https://github.com/aws-amplify/amplify-category-api/commit/c3eb0effad7744a7904330e9b122157cc9a06b01))
+
+
+
+
+
 ## [2.3.7](https://github.com/aws-amplify/amplify-category-api/compare/@aws-amplify/graphql-default-value-transformer@2.3.6...@aws-amplify/graphql-default-value-transformer@2.3.7) (2024-05-15)
 
 **Note:** Version bump only for package @aws-amplify/graphql-default-value-transformer
