@@ -1,0 +1,32 @@
+{
+  "name": "test-verdaccio-my-mono-repo",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "publish:release": "lerna publish --conventional-commits --conventional-graduate --exact --yes --message 'chore(release): Publish [ci skip]' --no-verify-access",
+    "publish-to-verdaccio": "lerna publish --yes --no-commit-hooks --no-push --exact --dist-tag=latest --conventional-commits --no-git-tag-version --no-verify-access"
+  },
+  "bugs": {
+    "url": "https://github.com/aws-amplify/amplify-category-api/issues"
+  },
+  "private": true,
+  "homepage": "https://github.com/aws-amplify/amplify-category-api#readme",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aws-amplify/amplify-category-api.git"
+  },
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lerna": "^5.1.6",
+    "ts-node": "^8.10.1",
+    "typescript": "^4.5.5"
+  },
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
+
