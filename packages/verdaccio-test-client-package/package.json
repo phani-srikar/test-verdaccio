@@ -1,6 +1,6 @@
 {
   "name": "verdaccio-test-client-package",
-  "version": "1.1.3",
+  "version": "1.1.2",
   "description": "testing publish with verdaccio V1 updated",
   "repository": {
     "type": "git",
