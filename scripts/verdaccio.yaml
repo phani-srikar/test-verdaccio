@@ -34,6 +34,12 @@ packages:
     access: $all
     publish: $all
     proxy: npmjs
+  
+  'verdaccio-test-client-package':
+    # scoped packages
+    access: $all
+    publish: $all
+    proxy: npmjs
 
   '**':
     # allow all users (including non-authenticated users) to read and
